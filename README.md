@@ -7,7 +7,7 @@ Data: 15/08/2025
 ---
 
 Este estudo tem como objetivo **analisar e prever o turnover de estagiários** utilizando técnicas de *Machine Learning*.  
-O modelo escolhido para a classificação foi o **Random Forest**, devido à sua robustez, capacidade de lidar com variáveis categóricas e numéricas, e boa performance em conjuntos de dados complexos.
+O modelo escolhido para a classificação foi o **Decision Tree**, devido à sua robustez, capacidade de lidar com variáveis categóricas e numéricas, e boa performance em conjuntos de dados complexos.
 
 **Objetivos principais:**
 - Identificar padrões que levam ao desligamento de estagiários.
@@ -19,6 +19,6 @@ O modelo escolhido para a classificação foi o **Random Forest**, devido à sua
 **📌 Etapas do estudo:**
 1. **Coleta e limpeza dos dados**
 2. **Análise exploratória**
-3. **Treinamento do modelo Random Forest**
+3. **Treinamento do modelo Decision Tree**
 4. **Avaliação da performance**
 5. **Interpretação dos resultados**
